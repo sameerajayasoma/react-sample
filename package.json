@@ -30,7 +30,7 @@
     "private": false,
     "scripts": {
         "start": "webpack-dev-server --mode development --inline --hot --open",
-        "build": "webpack -p"
+        "build": "webpack -p --output public"
     },
     "dependencies": {
         "@asgardeo/auth-react": "^1.1.13",
