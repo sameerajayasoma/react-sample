@@ -1,0 +1,7 @@
+{
+    "clientID": "cKfitSgXx1AKdBGCksFXZRTpFoYa",
+    "baseUrl": "https://api.asgardeo.io/t/samjs",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "scope": ["openid","profile"]
+}
